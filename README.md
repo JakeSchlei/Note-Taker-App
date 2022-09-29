@@ -27,8 +27,16 @@
 
   ## Tests
   N/A
-
   
+  ## Deployment
+  This app is deployed on Heroku
+  Link: https://sleepy-basin-02286.herokuapp.com/
+  
+  ## Screenshot
+  
+
+  ![screencapture-sleepy-basin-02286-herokuapp-notes-2022-09-28-17_26_14](https://user-images.githubusercontent.com/108429837/192911656-4dd497de-dc6a-4cd6-a1be-872910de68cd.png)
+
 
   
 
